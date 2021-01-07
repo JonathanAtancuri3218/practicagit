@@ -7,6 +7,6 @@ public class Logica {
 
 	}
 	public String metodoIntegrante2(){
-		return "Este Metodo a sido modificado por Sibri";
+		return "Este Metodo a sido modificado por Sibri sin error";
 	}
 }
