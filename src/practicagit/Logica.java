@@ -4,7 +4,7 @@ public class Logica {
 	
 	public String metodoIntegrante1(){
 
-		return "Este Metodo a sido modificado por Jonathan";
+		return "Este Metodo a sido modificado por Jonathan 1";
 	}
 	public String metodoIntegrante2(){
 		return "Este Metodo a sido modificado por Sibri";
