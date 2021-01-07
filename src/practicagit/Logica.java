@@ -3,7 +3,7 @@ package practicagit;
 public class Logica {
 	
 	public String metodoIntegrante1(){
-		return "integrante1";
+		return "Este Metodo a sido modificado por Jonathan Atancuri";
 	}
 	public String metodoIntegrante2(){
 		return "integrante2";
